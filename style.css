@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(165, 81, 81);
+}
+.waper{
+ width: 500px;  
+ text-align: center;
+ align-items: center;
+ background-color: aqua;
+}
+.input-box{
+    height: 20px;
+    width: 200px;
+    background-color: rgb(168, 124, 67);
+}
